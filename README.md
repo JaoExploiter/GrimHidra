@@ -1,0 +1,2 @@
+# GrimHidra
+Private Whitelist Script
